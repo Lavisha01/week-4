@@ -1,2 +1,2 @@
 # week-4
-Pao corta vista larga
+Paso corta vista larga
